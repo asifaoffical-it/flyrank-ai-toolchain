@@ -1,0 +1,27 @@
+---
+description: FlyRank internship setup and development conventions
+alwaysApply: true
+---
+
+# Project Context
+This repository is for my FlyRank internship.
+It currently contains setup documentation only.
+Application development has not started.
+
+# Current Tools
+- Node.js LTS and npm
+- Git and GitHub
+- Cursor
+
+# Application Stack
+The application framework has not been selected yet.
+Do not assume a framework or add dependencies unless requested.
+
+# Conventions
+- Use clear and descriptive names.
+- Make small, focused changes.
+- Keep README.md accurate.
+- Never commit credentials or .env files.
+- Use Conventional Commits.
+- Explain changes and how they were checked.
+- Do not commit or push unless explicitly requested.
